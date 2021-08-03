@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  text-align: right;
+}
+
+h2 {
+  text-align: right;
+  font-style:italic;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight:bold;
+  text-align: right;
+}
+ul {
+  font-size:20px;
+  line-height: 30px;
+  text-align: right;
+}
+ol {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: right;
+ }
+img {
+  width: 500px;
+  height: auto;
+}
