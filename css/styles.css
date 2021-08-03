@@ -1,5 +1,6 @@
 h1 {
   color: red;
+  text-align: center;
 }
 
 h2 {
@@ -10,8 +11,22 @@ h2 {
 p {
   font-family: sans-serif;
   font-weight:bold;
+  text-align: center;
 }
 ul {
   font-size:20px;
   line-height: 30px;
+  text-align: center;
+}
+li {
+  text-align: center;
+}
+ol {
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+ }
+img {
+  width: 500px;
+  height: auto;
 }
